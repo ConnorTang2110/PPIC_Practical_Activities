@@ -1,1 +1,1 @@
-
+This is a simple sentence to test whether this activity is working successfully
